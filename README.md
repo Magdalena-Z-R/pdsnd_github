@@ -5,7 +5,7 @@
 Bikeshare data analysis with Python
 
 ### Description
-Describe what your project is about and what it does
+Calculate statistics and build an interactive environment for a dataset to analyze.
 
 ### Files used
 Include the files used
